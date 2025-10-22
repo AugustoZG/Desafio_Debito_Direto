@@ -1,0 +1,4 @@
+Flask==3.*
+flask-cors==4.*
+selenium==4.*
+webdriver-manager==4.*
